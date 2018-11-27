@@ -1,2 +1,1 @@
 # springMVC
-simple spring program
